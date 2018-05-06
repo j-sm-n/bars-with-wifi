@@ -2,8 +2,6 @@
   <img src="public/logo_high_resolution.png" alt="Bars With Wifi logo" />
 </h1>
 
----
-
 ## About
 
 Are you someone who enjoys sitting in bars where the WiFi runs free but hate finding out your new favorite watering hole has zero accessible power outlets? You could also be someone searching for the best place to host your book club or study group that has options (and comfortable seating) for everyone.
