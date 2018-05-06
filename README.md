@@ -1,4 +1,4 @@
-<img src="public/logo_high_resolution.png" alt="Bars With Wifi logo" style="width: 30%;"/>
+<img src="public/logo_high_resolution.png" alt="Bars With Wifi logo" style="width: 200px;"/>
 
 ---
 
